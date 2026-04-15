@@ -1,6 +1,9 @@
 ## Hi there 👋
 ## About me 
+Soy estudiante y estoy en proceso de formarme en el mundo de la tecnología.
+Me interesa aprender no solo a programar, sino también a pensar de forma lógica, resolver problemas y mejorar constantemente.
 
+Me gusta organizar, analizar y encontrar formas más eficientes de hacer las cosas.
 ```python
 class AboutMe:
     """Personal profile"""
