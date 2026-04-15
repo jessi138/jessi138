@@ -1,16 +1,42 @@
 ## Hi there 👋
+## About me 
 
-<!--
-**jessi138/jessi138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class AboutMe:
+    """Personal profile"""
 
-Here are some ideas to get you started:
+    NAME = "Jessica Diaz 👋"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ROLE = "Programming Student 👩‍💻"
+
+    LANGUAGES 🛠️  = [
+        "Python",
+        "HTML",
+        "CSS"
+    ]
+
+    TOOLS 🧰  = [
+        "Git",
+        "GitHub",
+        "VS Code"
+    ]
+
+    CURRENTLY_LEARNING 📚= [
+        "Programming Logic",
+        "Web Development"
+    ]
+
+    INTERESTS 🫶 = [
+        "Technology 💻",
+        "Self-improvement 📈",
+        "Reading 📚",
+        "Learn Languages ✏️"
+        "Cooking 🍳"
+    ]
+
+    GOALS = [
+        "Gain experience",
+        "Build real projects",
+        "Keep improving every day"
+    ]
+```
