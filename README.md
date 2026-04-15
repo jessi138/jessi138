@@ -42,4 +42,6 @@ class AboutMe:
         "Build real projects",
         "Keep improving every day"
     ]
+    LINKEDIN = [
+        "www.linkedin.com/in/jessica-diaz-benitez-033808403"]
 ```
